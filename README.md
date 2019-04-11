@@ -14,4 +14,4 @@ Convolution Neural Network on CIFAR - accuracy:0.6952, Error:30.48%
 <br />
 <br />
 ## Part-c
-Resnet50 on CIFAR - accuracy:0.5262, Error:47.38%
+Resnet50 on CIFAR - accuracy:0.6911, Error:30.89%
